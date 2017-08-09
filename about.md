@@ -3,6 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+ 
+ Hi, my name is Yingkun Bai. I'm currently working in Switzerland
+ and would like to start using this blog for noting my study points.
 
-This is a simple blog site for Yingkun to note down her study notes. 
+ I'm a full time software engineer keen on different technologies. 
+
 
