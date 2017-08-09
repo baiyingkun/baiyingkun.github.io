@@ -3,6 +3,7 @@ layout: post
 title: "Develop SharePoint Online Add-ins with Angular 2 and WebPack"
 date: 2017-08-08 14:02:00 +0200
 categories: tech
+comments: true
 ---
 
 
@@ -113,6 +114,7 @@ Now that we have generated the bundles; we can refer them in our pages. Add the 
 Press F5 to make the add-in running and connecting to sharepoint. You should see the result like below: 
 ![Run app from SP]({{site.url}}/assets/run-webpack-from-sp.png)
 
+{% include disqus.html %}
 
  
  
